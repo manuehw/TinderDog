@@ -1,4 +1,6 @@
 # TinderDog
+![logo_app](https://user-images.githubusercontent.com/51179661/83979313-c1d74100-a90d-11ea-9b85-1bed016d551a.png)
+
 Aplicación Android de adopción de animales. La aplicación cuenta con dos tipos de usuarios; usuario normal y protectora.
 
 
