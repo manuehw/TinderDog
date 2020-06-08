@@ -12,7 +12,7 @@ La aplicación se compone de las siguientes partes:
 
 ## Doog breeds classifier. Convolutional neural network, Xception keras model. 
 
-![Hnet-image (1)](https://user-images.githubusercontent.com/51179661/84023053-af99e900-a987-11ea-8c65-c9fbded7ff71.gif)
+![Hnet-image (2)](https://user-images.githubusercontent.com/51179661/84023432-64340a80-a988-11ea-959a-20f40d28633a.gif)
 
 ## Login
 
