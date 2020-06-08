@@ -10,13 +10,13 @@ La protectora podrá crear perfiles de animales para ser adoptados, así como, e
 El usuario podrá visualizar arriba los casos urgentes de adopción y los aniamles en general. Dispondrá de un buscador donde podrá visualizar el animal que más se ajuste a sus preferencias. En caso de que le parezca interesante un perfil podrá guardarlo en favoritos para poder verlo más tarde. Podrá emitir donaciones tambien a las protectoras de los animalesy podrá rellenar el formulario para enviar una petición de adopción. Tendrá un chat donde recibirá la información de la adopción a través de la protectora si su petición ha sido aceptada y por último el usuario podrá editar su información.
 La aplicación se compone de las siguientes partes:
 
-Login
+## Login
 
 ![login](https://user-images.githubusercontent.com/51179661/84014670-ff25e800-a97a-11ea-8f4f-97ac8f769c55.png)
 ![register_election](https://user-images.githubusercontent.com/51179661/84014130-23cd9000-a97a-11ea-983c-097b292141c5.png)
 ![register](https://user-images.githubusercontent.com/51179661/84014128-23cd9000-a97a-11ea-82e3-0f290b99c320.png)
 
-User
+## User
 
 ![User profile](https://user-images.githubusercontent.com/51179661/84014110-1fa17280-a97a-11ea-8955-62d7518255c0.png)
 ![all_animals](https://user-images.githubusercontent.com/51179661/84014125-2334f980-a97a-11ea-9e5a-dc472519d818.png)
@@ -25,7 +25,7 @@ User
 ![user_edit_animal_part1](https://user-images.githubusercontent.com/51179661/84015623-6db77580-a97c-11ea-8b27-8f5117a3adef.png)
 ![profile_settings](https://user-images.githubusercontent.com/51179661/84015620-6d1edf00-a97c-11ea-9033-1774631b32f0.png)
 
-Shelter
+## Shelter
 
 ![shelter_profile](https://user-images.githubusercontent.com/51179661/84014123-229c6300-a97a-11ea-8cde-23bb19ca4b9d.png)
 ![add_animal](https://user-images.githubusercontent.com/51179661/84014111-203a0900-a97a-11ea-867c-e88dfddedfd7.png)
@@ -41,7 +41,7 @@ Shelter
 ![donations](https://user-images.githubusercontent.com/51179661/84014132-24662680-a97a-11ea-83fe-f643cec876dc.png)
 ![form](https://user-images.githubusercontent.com/51179661/84014133-24662680-a97a-11ea-8466-49db43c6b9a1.png)
 
-Paypal Donations
+## Paypal Donations
 
 ![paypal_part1](https://user-images.githubusercontent.com/51179661/84015632-6ee8a280-a97c-11ea-9651-9c8d35b4956b.png)
 ![paypal_part2](https://user-images.githubusercontent.com/51179661/84015612-6bedb200-a97c-11ea-8b0e-cc0108deb34a.png)
