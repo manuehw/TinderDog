@@ -11,20 +11,21 @@ El usuario podra visualizar arriba los casos urgentes de adopción y los aniamle
 La aplicación se compone de las siguientes partes:
 
 #Login
+![register](https://user-images.githubusercontent.com/51179661/84014128-23cd9000-a97a-11ea-82e3-0f290b99c320.png)
+![register_election](https://user-images.githubusercontent.com/51179661/84014130-23cd9000-a97a-11ea-983c-097b292141c5.png)
 
+User
+![User profile](https://user-images.githubusercontent.com/51179661/84014110-1fa17280-a97a-11ea-8955-62d7518255c0.png)
+![all_animals](https://user-images.githubusercontent.com/51179661/84014125-2334f980-a97a-11ea-9e5a-dc472519d818.png)
+![individual_chat](https://user-images.githubusercontent.com/51179661/84014118-216b3600-a97a-11ea-88c8-e29c2f0f6a0d.png)
 
-![Screenshot_1591570091](https://user-images.githubusercontent.com/51179661/84012414-c89a9e00-a977-11ea-8e84-52239ef2712d.png)
-![Screenshot_1591573656](https://user-images.githubusercontent.com/51179661/84012917-8faef900-a978-11ea-817a-4626bda4e675.png)
-![Screenshot_1591573661](https://user-images.githubusercontent.com/51179661/84012918-90478f80-a978-11ea-929a-2e9f3cd8b259.png)
-![Screenshot_1591573674](https://user-images.githubusercontent.com/51179661/84012921-90e02600-a978-11ea-8398-94e750117763.png)
-![Screenshot_1591573678](https://user-images.githubusercontent.com/51179661/84012924-90e02600-a978-11ea-90e5-8dabaee14ad8.png)
-![Screenshot_1591570106](https://user-images.githubusercontent.com/51179661/84012928-90e02600-a978-11ea-815d-71a65b19cfe2.png)
-![Screenshot_1591570116](https://user-images.githubusercontent.com/51179661/84012930-9178bc80-a978-11ea-892a-c61805ce0c52.png)
-![Screenshot_1591573575](https://user-images.githubusercontent.com/51179661/84012932-9178bc80-a978-11ea-9ad6-d21215b6db5d.png)
-![Screenshot_1591573629](https://user-images.githubusercontent.com/51179661/84012933-92115300-a978-11ea-9162-2a1768e05c4a.png)
-![Screenshot_1591573682](https://user-images.githubusercontent.com/51179661/84012934-92a9e980-a978-11ea-9f2e-6e3531e76f9b.png)
-![Screenshot_1591573687](https://user-images.githubusercontent.com/51179661/84012938-92a9e980-a978-11ea-9cc6-414573cc1290.png)
-![Screenshot_1591573800](https://user-images.githubusercontent.com/51179661/84012940-93428000-a978-11ea-8eb5-e4615b8a97d2.png)
-![Screenshot_1591573634](https://user-images.githubusercontent.com/51179661/84012941-93428000-a978-11ea-9dd1-b480ae1a9150.png)
-![Screenshot_1591573646](https://user-images.githubusercontent.com/51179661/84012943-93db1680-a978-11ea-8ef2-7c9accb2289b.png)
-![Screenshot_1591573653](https://user-images.githubusercontent.com/51179661/84012946-93db1680-a978-11ea-9ddf-cddf0b652935.png)
+Shelter
+![shelter_profile](https://user-images.githubusercontent.com/51179661/84014123-229c6300-a97a-11ea-8cde-23bb19ca4b9d.png)
+![add_animal](https://user-images.githubusercontent.com/51179661/84014111-203a0900-a97a-11ea-867c-e88dfddedfd7.png)
+![add_animalspart2](https://user-images.githubusercontent.com/51179661/84014116-20d29f80-a97a-11ea-9e95-a98540b257f8.png)
+![chats](https://user-images.githubusercontent.com/51179661/84014117-216b3600-a97a-11ea-93e3-88b48744253a.png)
+![search_animals](https://user-images.githubusercontent.com/51179661/84014119-2203cc80-a97a-11ea-9dcc-8bdb9ab281ae.png)
+![search_shelters](https://user-images.githubusercontent.com/51179661/84014122-229c6300-a97a-11ea-9a77-b3b0f49fcf5d.png)
+![animals_shelter](https://user-images.githubusercontent.com/51179661/84014127-2334f980-a97a-11ea-8870-8dc74dcb82bc.png)
+![donations](https://user-images.githubusercontent.com/51179661/84014132-24662680-a97a-11ea-83fe-f643cec876dc.png)
+![form](https://user-images.githubusercontent.com/51179661/84014133-24662680-a97a-11ea-8466-49db43c6b9a1.png)
