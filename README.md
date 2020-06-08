@@ -10,7 +10,7 @@ La protectora podrá crear perfiles de animales para ser adoptados, así como, e
 El usuario podrá visualizar arriba los casos urgentes de adopción y los aniamles en general. Dispondrá de un buscador donde podrá visualizar el animal que más se ajuste a sus preferencias. En caso de que le parezca interesante un perfil podrá guardarlo en favoritos para poder verlo más tarde. Podrá emitir donaciones tambien a las protectoras de los animalesy podrá rellenar el formulario para enviar una petición de adopción. Tendrá un chat donde recibirá la información de la adopción a través de la protectora si su petición ha sido aceptada y por último el usuario podrá editar su información.
 La aplicación se compone de las siguientes partes:
 
-## Doog breeds clasifier. Convolutional neural network, Xception keras model. 
+## Doog breeds classifier. Convolutional neural network, Xception keras model. 
 
 ![Hnet-image](https://user-images.githubusercontent.com/51179661/84022781-1f5ba400-a987-11ea-94c1-c6464c3303d6.gif)
 
