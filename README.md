@@ -21,8 +21,8 @@ User
 ![User profile](https://user-images.githubusercontent.com/51179661/84014110-1fa17280-a97a-11ea-8955-62d7518255c0.png)
 ![all_animals](https://user-images.githubusercontent.com/51179661/84014125-2334f980-a97a-11ea-9e5a-dc472519d818.png)
 ![individual_chat](https://user-images.githubusercontent.com/51179661/84014118-216b3600-a97a-11ea-88c8-e29c2f0f6a0d.png)
-![user_edit_animal_part1](https://user-images.githubusercontent.com/51179661/84015623-6db77580-a97c-11ea-8b27-8f5117a3adef.png)
 ![user_edit_animal_part2](https://user-images.githubusercontent.com/51179661/84015619-6c864880-a97c-11ea-83cd-a7f472945268.png)
+![user_edit_animal_part1](https://user-images.githubusercontent.com/51179661/84015623-6db77580-a97c-11ea-8b27-8f5117a3adef.png)
 ![profile_settings](https://user-images.githubusercontent.com/51179661/84015620-6d1edf00-a97c-11ea-9033-1774631b32f0.png)
 
 Shelter
