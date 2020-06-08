@@ -14,6 +14,10 @@ La aplicación se compone de las siguientes partes:
 
 ![Hnet-image](https://user-images.githubusercontent.com/51179661/84023676-d0167300-a988-11ea-94bc-3a5a299e8cfd.gif)
 
+## Transitions
+
+![Hnet-image (1)](https://user-images.githubusercontent.com/51179661/84024093-8b3f0c00-a989-11ea-9735-25471317ee70.gif)
+
 ## Login
 
 ![login](https://user-images.githubusercontent.com/51179661/84014670-ff25e800-a97a-11ea-8f4f-97ac8f769c55.png)
