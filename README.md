@@ -30,9 +30,12 @@ Shelter
 ![shelter_profile](https://user-images.githubusercontent.com/51179661/84014123-229c6300-a97a-11ea-8cde-23bb19ca4b9d.png)
 ![add_animal](https://user-images.githubusercontent.com/51179661/84014111-203a0900-a97a-11ea-867c-e88dfddedfd7.png)
 ![add_animalspart2](https://user-images.githubusercontent.com/51179661/84014116-20d29f80-a97a-11ea-9e95-a98540b257f8.png)
+![edit_animal_info](https://user-images.githubusercontent.com/51179661/84016674-e408a780-a97d-11ea-8de3-4ee0d0cb7794.png)
+![delete_animal](https://user-images.githubusercontent.com/51179661/84016677-e539d480-a97d-11ea-8289-da12e0f6076e.png)
 ![chats](https://user-images.githubusercontent.com/51179661/84014117-216b3600-a97a-11ea-93e3-88b48744253a.png)
 ![search_animals](https://user-images.githubusercontent.com/51179661/84014119-2203cc80-a97a-11ea-9dcc-8bdb9ab281ae.png)
 ![search_shelters](https://user-images.githubusercontent.com/51179661/84014122-229c6300-a97a-11ea-9a77-b3b0f49fcf5d.png)
+![shelter_info](https://user-images.githubusercontent.com/51179661/84016687-e834c500-a97d-11ea-9abb-22ecbe284f1c.png)
 ![animals_shelter](https://user-images.githubusercontent.com/51179661/84014127-2334f980-a97a-11ea-8870-8dc74dcb82bc.png)
 ![shelter_edit_animal](https://user-images.githubusercontent.com/51179661/84015630-6e500c00-a97c-11ea-8a68-605534ace0cc.png)
 ![donations](https://user-images.githubusercontent.com/51179661/84014132-24662680-a97a-11ea-83fe-f643cec876dc.png)
@@ -45,6 +48,7 @@ Paypal Donations
 ![paypallogi_part3](https://user-images.githubusercontent.com/51179661/84015615-6c864880-a97c-11ea-961d-24e6059998c5.png)
 ![paypal_part4](https://user-images.githubusercontent.com/51179661/84015625-6db77580-a97c-11ea-917c-402508a9c467.png)
 ![aproved_donation](https://user-images.githubusercontent.com/51179661/84015628-6e500c00-a97c-11ea-98fe-5bdd481e1546.png)
+
 
 
 
