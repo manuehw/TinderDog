@@ -12,7 +12,10 @@ La aplicación se compone de las siguientes partes:
 
 #Login
 
-![Screenshot_1591570091](https://user-images.githubusercontent.com/51179661/84012299-a274fe00-a977-11ea-82bf-baf2b65cf6e9.png)
+
+![Screenshot_1591570091](https://user-images.githubusercontent.com/51179661/84012414-c89a9e00-a977-11ea-8e84-52239ef2712d.png)
+
+
 ![Screenshot_1591570116](https://user-images.githubusercontent.com/51179661/83982774-821e5280-a929-11ea-8f9a-8e03759a7d0a.png)
 
 ![Screenshot_1591570106](https://user-images.githubusercontent.com/51179661/83982775-82b6e900-a929-11ea-9532-c5a7412152f3.png)
