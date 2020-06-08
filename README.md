@@ -20,7 +20,7 @@ La aplicación se compone de las siguientes partes:
 
 ## Animations
 
-![Hnet-image (3)](https://user-images.githubusercontent.com/51179661/84024899-f89f6c80-a98a-11ea-8277-e3ee6614e7e6.gif)
+![Hnet-image (4)](https://user-images.githubusercontent.com/51179661/84025158-5cc23080-a98b-11ea-9fd4-0415e2e50dcf.gif)
 
 ## Login
 
