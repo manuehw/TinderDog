@@ -11,15 +11,21 @@ El usuario podra visualizar arriba los casos urgentes de adopción y los aniamle
 La aplicación se compone de las siguientes partes:
 
 #Login
+
+
 ![register](https://user-images.githubusercontent.com/51179661/84014128-23cd9000-a97a-11ea-82e3-0f290b99c320.png)
 ![register_election](https://user-images.githubusercontent.com/51179661/84014130-23cd9000-a97a-11ea-983c-097b292141c5.png)
 
-User
+#User
+
+
 ![User profile](https://user-images.githubusercontent.com/51179661/84014110-1fa17280-a97a-11ea-8955-62d7518255c0.png)
 ![all_animals](https://user-images.githubusercontent.com/51179661/84014125-2334f980-a97a-11ea-9e5a-dc472519d818.png)
 ![individual_chat](https://user-images.githubusercontent.com/51179661/84014118-216b3600-a97a-11ea-88c8-e29c2f0f6a0d.png)
 
-Shelter
+#Shelter
+
+
 ![shelter_profile](https://user-images.githubusercontent.com/51179661/84014123-229c6300-a97a-11ea-8cde-23bb19ca4b9d.png)
 ![add_animal](https://user-images.githubusercontent.com/51179661/84014111-203a0900-a97a-11ea-867c-e88dfddedfd7.png)
 ![add_animalspart2](https://user-images.githubusercontent.com/51179661/84014116-20d29f80-a97a-11ea-9e95-a98540b257f8.png)
