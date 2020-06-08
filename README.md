@@ -12,7 +12,7 @@ La aplicación se compone de las siguientes partes:
 
 ## Doog breeds clasifier. Convolutional neural network, Xception keras model. 
 
-https://media.giphy.com/media/YnG50gJ9YIFUWFm1XC/giphy.gif
+<iframe src="https://giphy.com/embed/YnG50gJ9YIFUWFm1XC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YnG50gJ9YIFUWFm1XC">via GIPHY</a></p>
 
 
 
