@@ -18,6 +18,10 @@ La aplicación se compone de las siguientes partes:
 
 ![Hnet-image (1)](https://user-images.githubusercontent.com/51179661/84024093-8b3f0c00-a989-11ea-9735-25471317ee70.gif)
 
+## Animations
+
+![Hnet-image (2)](https://user-images.githubusercontent.com/51179661/84024557-6303dd00-a98a-11ea-8eb0-39b815dcf02c.gif)
+
 ## Login
 
 ![login](https://user-images.githubusercontent.com/51179661/84014670-ff25e800-a97a-11ea-8f4f-97ac8f769c55.png)
