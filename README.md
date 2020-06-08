@@ -12,9 +12,9 @@ La aplicación se compone de las siguientes partes:
 
 #Login
 
-
-![register](https://user-images.githubusercontent.com/51179661/84014128-23cd9000-a97a-11ea-82e3-0f290b99c320.png)
+![login](https://user-images.githubusercontent.com/51179661/84014670-ff25e800-a97a-11ea-8f4f-97ac8f769c55.png)
 ![register_election](https://user-images.githubusercontent.com/51179661/84014130-23cd9000-a97a-11ea-983c-097b292141c5.png)
+![register](https://user-images.githubusercontent.com/51179661/84014128-23cd9000-a97a-11ea-82e3-0f290b99c320.png)
 
 #User
 
