@@ -14,7 +14,6 @@ La aplicación se compone de las siguientes partes:
 
 
 ![Screenshot_1591570091](https://user-images.githubusercontent.com/51179661/84012414-c89a9e00-a977-11ea-8e84-52239ef2712d.png)
-
 ![Screenshot_1591573656](https://user-images.githubusercontent.com/51179661/84012917-8faef900-a978-11ea-817a-4626bda4e675.png)
 ![Screenshot_1591573661](https://user-images.githubusercontent.com/51179661/84012918-90478f80-a978-11ea-929a-2e9f3cd8b259.png)
 ![Screenshot_1591573674](https://user-images.githubusercontent.com/51179661/84012921-90e02600-a978-11ea-8398-94e750117763.png)
