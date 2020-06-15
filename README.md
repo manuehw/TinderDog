@@ -11,7 +11,7 @@ A la hora de añadir un animal, si es un perro, al seleccionar una foto la red n
 El usuario podrá visualizar arriba los casos urgentes de adopción y los aniamles en general. Dispondrá de un buscador donde podrá visualizar el animal que más se ajuste a sus preferencias. En caso de que le parezca interesante un perfil podrá guardarlo en favoritos para poder verlo más tarde. Podrá emitir donaciones tambien a las protectoras de los animales y podrá rellenar el formulario para enviar una petición de adopción. Tendrá un chat donde recibirá la información de la adopción a través de la protectora si su petición ha sido aceptada y por último el usuario podrá editar su información.
 La aplicación se compone de las siguientes partes:
 
-## Doog breeds classifier. Convolutional neural network, Xception keras model. 
+## Dog breeds classifier. Convolutional neural network, Xception keras model. 
 
 ![Hnet-image](https://user-images.githubusercontent.com/51179661/84023676-d0167300-a988-11ea-94bc-3a5a299e8cfd.gif)
 
